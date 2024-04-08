@@ -1,0 +1,6 @@
+location          = "westeurope"
+location_short    = "euw"
+subscription_spec = "new"
+certificate_name  = "dtcloudapps-com"
+app_fqdn          = "hello-world-test-app.lemonbay-c4d01501.westeurope.azurecontainerapps.io"
+host_name         = "app-one-new-test.dtcloudapps.com"
